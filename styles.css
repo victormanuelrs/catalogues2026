@@ -63,7 +63,8 @@ main .container div h3 {
 }
 main .container div img {
     border-radius: 4px;
-    height: auto;
+    height: 226.5px;
+    object-fit: cover;
     width: 160px;
     box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
 }
